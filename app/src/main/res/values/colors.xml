@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_main">#289E12</color>
+    <color name="red_main">#EC0303</color>
+    <color name="green_main_dark">#0B3A02</color>
+
+    <color name="picker_red">#F80202</color>
+    <color name="picker_green">#0FF406</color>
+    <color name="picker_blue">#0324F4</color>
+    <color name="picker_black">#201F1F</color>
+    <color name="picker_yellow">#FBDA03</color>
+    <color name="grey">#8E8B8B</color>
+    <color name="picker_orange">#F63D05</color>
+    <color name="blue_light">#61D2F4</color>
+    <color name="blue_dark">#144E7A</color>
+    <color name="purple">#A157E3</color>
+</resources>
